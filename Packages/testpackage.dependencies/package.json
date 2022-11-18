@@ -1,0 +1,8 @@
+{
+  "name": "testpackage.dependencies",
+  "version": "1.0.0",
+  "displayName": "Miguel Test package dependencies",
+  "description": "Miguel test package dependencies",
+  "unity": "2021.3",
+  "unityRelease": "10f1"
+}
